@@ -1,0 +1,223 @@
+* {
+    margin: auto;
+    padding: 0;
+    font-family: 'Spartan', sans-serif;
+}
+
+.cont {
+    background: url(img/bgheader.png);
+    background-size: cover;
+}
+
+.heater {
+    max-width: 1024px;
+    width: auto;
+    height: 490px;
+}
+
+.logo {
+    float: left;
+    margin-top: 59px;
+    margin-left: 89px;
+    margin-right: 192px;
+}
+
+.mainMenu {
+    padding-top: 57px;
+}
+
+.heater a {
+    padding-left: 10px;
+    font-size: 22px;
+    color: rgb(185, 185, 185);
+    text-decoration: none;
+}
+
+.samsheet {
+    margin-top: 138px;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+.cofe {
+    float: left;
+    margin-top: 60px;
+    margin-left: 119px;
+    margin-right: 75px;
+}
+
+.try {
+    border: 1px solid rgb(48, 45, 45);
+    padding: 10px 15px;
+    margin-top: auto;
+    text-decoration: none;
+    color: rgb(43, 36, 36);
+    box-shadow: 0 0 5px 3px rgb(48, 45, 45);
+    background: #296f4e;
+}
+
+.contCar {
+    height: 300px;
+    max-width: 1024px;
+}
+
+.contCarr {
+    margin-top: 54px;
+    color: #5f5f5f;
+}
+
+.car {
+    float: left;
+    width: 25%;
+    text-align: center;
+    font-size: 18px;
+}
+
+.conipad {
+    max-width: 1024px;
+    text-align: center;
+    height: 730px;
+    color: #4f4f4f;
+}
+
+.textP {
+    text-align: start;
+}
+
+.p1 {
+    font-size: 36px;
+}
+
+.contUS {
+    max-width: 1024px;
+    height: 400px;
+}
+
+.scren {
+    display: flex;
+    flex-direction: row;
+}
+
+.screenShoteP {
+    width: 50%;
+    height: 360px;
+    max-width: 1024px;
+}
+
+.textUs {
+    max-width: 1024px;
+    min-width: 600px;
+    color: #4f4f4f;
+    display: inline-table;
+}
+
+.whyUsP {
+    font-size: 28px;
+}
+
+.cheis {
+    font-size: 14px;
+}
+
+.contactToUsToday {
+    max-width: 1024px;
+    height: 170px;
+    display: flex;
+    flex-direction: row;
+}
+
+.enterpos {
+    border: 1px solid #e67624;
+    background-color: #e67624;
+    width: 47%;
+    height: 110px;
+    align-items: center;
+    border-radius: 7px;
+    justify-content: center;
+}
+
+.ml {
+    font-size: 22px;
+    color: white;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.name {
+    width: 150px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+.password {
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.buttonIn {
+    width: 90px;
+    height: 30px;
+    background: #444444;
+    border: none;
+    color: white;
+    margin-left: 10px;
+}
+
+.emailInput {
+    border: 1px solid #01d4f3;
+    background-color: #01d4f3;
+    width: 47%;
+    height: 110px;
+    align-items: center;
+    border-radius: 7px;
+    justify-content: center;
+}
+
+.sto {
+    font-size: 22px;
+    color: white;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.emaill {
+    width: 270px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.buttonInEm {
+    width: 90px;
+    height: 30px;
+    background: #029bb1;
+    border: none;
+    color: white;
+    margin-left: 50px;
+}
+
+footer {
+    height: 250px;
+    background: url(img/bgf.png);
+    background-size: cover;
+}
+
+.fott {
+    height: 280px;
+    max-width: 1024px;
+    display: flex;
+    flex-direction: row;
+    color: #a1a1a2;
+}
+
+.fot {
+    height: 200px;
+    align-self: start;
+    font-size: 12px;
+
+}
+.mainPP{
+    font-size: 22px;
+}

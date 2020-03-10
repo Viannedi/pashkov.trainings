@@ -1,0 +1,623 @@
+.hate {
+    height: 810px;
+    width: 1500px;
+    margin: auto;
+    background: url(img/hate.png);
+}
+
+.hMain {
+    padding-top: 205px;
+    align-items: center;
+}
+
+.h1Main {
+    margin: auto;
+    width: 1170px;
+    height: 130px;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+.h4Main {
+    margin: auto;
+    width: 835px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 28px;
+}
+
+.mainTols {
+    width: 950px;
+    height: 180px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.heater {
+    height: 100px;
+    width: 1500px;
+    margin: auto;
+}
+
+.heaterBoton {
+    text-align: right;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.heaterBoton a:hover {
+    color: #f6ae48;
+}
+
+.heaterBot {
+    text-decoration: none;
+    color: #000;
+    font-size: 28px;
+    padding-left: 40px;
+}
+
+hr {
+    border: none;
+    background-color: gray;
+    height: 2px;
+}
+
+.content {
+    height: 530px;
+    width: 1500px;
+    margin: auto;
+    text-align: center;
+}
+
+.studio {
+    font-size: 70px;
+    max-width: 40%;
+    float: left;
+    padding-top: 220px;
+}
+
+.aboutStudio {
+    background: url(img/WE.png);
+    background-size: cover;
+    font-size: 28px;
+    max-width: 60%;
+    float: left;
+    padding-top: 170px;
+    padding-left: 220px;
+    text-align: left;
+    color: #545454;
+}
+
+.chesContent {
+    height: 600px;
+    width: 1500px;
+    margin: auto;
+}
+
+.chesStar {
+    float: left;
+    width: 30%;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.chesStar:hover {
+    background-color: #f6ae48;
+    background-size: cover;
+    height: 500px;
+    color: white;
+}
+
+.chesStar a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.botonChes {
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+
+.dowItem {
+    height: 46px;
+    width: 400px;
+    float: left;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.price {
+    height: 36px;
+    width: 130px;
+    border: 2px solid #fff;
+    text-align: center;
+    float: left;
+    padding-top: 10px;
+}
+
+.priseTo {
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+}
+
+.arrow {
+    height: 36px;
+    width: 36px;
+    float: right;
+    padding-top: 15px;
+}
+
+.credo {
+    background: url(img/contentBg.png);
+    height: 560px;
+    width: 1500px;
+    margin: auto;
+    max-height: 1200px;
+}
+
+.credoText {
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    font-size: 28px;
+}
+
+.credoText p {
+    height: 200px;
+    width: 950px;
+    color: white;
+    font-size: 24px;
+    margin: auto;
+}
+
+.workOn {
+    margin: auto;
+    height: 566px;
+    width: 1500px;
+    padding-top: 80px;
+    color: white;
+}
+
+.pic {
+    height: 526px;
+    width: 666px;
+    background: url(img/settings.png);
+}
+
+.work {
+    padding-top: 100px;
+    padding-left: 125px;
+    font-size: 60px;
+}
+
+.chesWork {
+    height: 400px;
+    width: 1500px;
+    margin-top: 80px;
+}
+
+.blokWork1 {
+    margin-left: 190px;
+    margin-right: 20px;
+    background: url(img/lp.png);
+    width: 368px;
+    height: 315px;
+    float: left;
+}
+
+.blokWork2 {
+    margin-right: 20px;
+    background: url(img/vs.png);
+    width: 368px;
+    height: 315px;
+    float: left;
+}
+
+.blokWork3 {
+    margin-right: 20px;
+    background: url(img/is.png);
+    width: 368px;
+    height: 315px;
+    float: left;
+}
+
+.blokWorkForSryle {
+    margin-top: 70px;
+    height: 110px;
+    width: 287px;
+    margin-left: 40px;
+}
+
+.blokWorkStyle {
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+}
+
+.blokWorkForSryle2 {
+    margin-top: 70px;
+    height: 110px;
+    width: 287px;
+    margin-left: 40px;
+}
+
+.blokWorkForSryle hr {
+    border: none;
+    background-color: white;
+    height: 2px;
+}
+
+.blokWorkForSryle2 hr {
+    border: none;
+    background-color: white;
+    height: 2px;
+    margin-top: 64px;
+}
+
+.priceto {
+    height: 30px;
+    width: 160px;
+    border: 2px solid #fff;
+    text-align: center;
+    float: left;
+    padding-top: 10px;
+    margin-top: 40px;
+}
+
+.priceto:hover {
+    border: 2px solid rgb(194, 11, 11);
+}
+
+.arrowR {
+    height: 36px;
+    width: 36px;
+    float: right;
+    padding-top: 48px;
+}
+
+.ferstInSerch {
+    margin: auto;
+    margin-top: 600px;
+    height: 600px;
+    width: 1500px;
+}
+
+.textSerch {
+    width: 60%;
+    padding-left: 150px;
+    float: left;
+}
+
+.h1fs {
+    width: 590px;
+    height: 60px;
+    background: url(img/BE\ THE\ FIRST.png);
+    padding-left: 100px;
+    align-items: center;
+    font-size: 25px;
+}
+
+.pfs {
+    width: 590px;
+    height: 60px;
+    padding-left: 100px;
+    align-items: center;
+    font-size: 30px;
+}
+
+.our_projects {
+    margin: auto;
+    width: 1500px;
+    height: 990px;
+    background: url(img/port.png);
+}
+
+.picturNum {
+    padding-top: 120px;
+    width: 1500px;
+    height: 428px;
+}
+
+.pictur1 {
+    float: left;
+}
+
+.pictur {
+    float: left;
+}
+
+.picturDawn {
+    float: left;
+}
+
+
+.wrapper {
+    width: 100%;
+    min-height: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+
+.wave-btn {
+    width: 280px;
+    height: 60px;
+    display: flex;
+    transition: all 0.8s ease 0s;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0 0 10px 10px;
+    text-decoration: none;
+    position: relative;
+    overflow: hidden;
+}
+
+.wave-btn:hover {
+    border-radius: 10px;
+    transition: all 0.8s ease 0.2s;
+    box-shadow: 0 0 40px rgba(73, 115, 255, 0.6);
+}
+
+.wave-btn:hover .wave-btn__waves {
+    top: -50%;
+}
+
+.wave-btn__text {
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    position: relative;
+    z-index: 1;
+}
+
+.wave-btn__waves {
+    position: absolute;
+    width: 280px;
+    height: 280px;
+    top: 0;
+    left: 0;
+    background-color: #4973ff;
+    box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.5);
+    transition: all 0.8s ease 0s;
+}
+
+.wave-btn__waves:after, .wave-btn__waves:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 250%;
+    height: 250%;
+    transform: translate3d(-50%, -96%, 0) rotate(0deg) scale(1);
+}
+
+.wave-btn__waves:before {
+    background-color: #303263;
+    border-radius: 48%;
+    animation: waves 5s infinite linear;
+}
+
+.wave-btn__waves:after {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 44%;
+    animation: waves 10s infinite linear;
+}
+
+@keyframes waves {
+    0% {
+        transform: translate3d(-50%, -96%, 0) rotate(0deg) scale(1);
+    }
+    100% {
+        transform: translate3d(-50%, -96%, 0) rotate(360deg) scale(1);
+    }
+}
+
+.mainAdept {
+    margin: auto;
+    margin-top: 90px;
+    height: 600px;
+    width: 1500px;
+}
+
+.adept {
+    height: 600px;
+    float: left;
+    margin-left: 100px;
+    padding-top: 130px;
+}
+
+.adeptH {
+    width: 440px;
+    height: 57px;
+    background: url(img/ADAPTATE.png);
+    font-size: 22px;
+    text-align: center;
+}
+
+.adeptP {
+    width: 590px;
+    height: 60px;
+    align-items: center;
+    font-size: 30px;
+    float: left;
+}
+
+.imgAdept {
+    float: right;
+}
+
+.tradIn {
+    margin: auto;
+    width: 1500px;
+    height: 680px;
+    background: url(img/Trade-in.png);
+    color: white;
+}
+
+.traidInItem {
+    margin: auto;
+    width: 1500px;
+}
+
+.h1Traid {
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+}
+
+.traidInItemSize {
+    text-decoration: none;
+    color: #000;
+    font-size: 22px;
+    width: 30%;
+    padding-left: 50px;
+    float: left;
+    color: white;
+}
+
+.botonChekMySite {
+    margin-top: 500px;
+    margin-left: 610px;
+}
+
+.botonSite {
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    background: #6a6b8e;
+    font-size: 22px;
+    border-radius: 15px;
+}
+
+.care {
+    margin: auto;
+    width: 1500px;
+    height: 500px;
+}
+
+.textCare {
+    float: left;
+    margin-left: 235px;
+    margin-top: 133px;
+}
+
+.h1care {
+    width: 462px;
+    height: 55px;
+    background: url(img/BE\ CAREFUL.png);
+    margin-left: 10px;
+    font-size: 22px;
+}
+
+.pcare {
+    width: 462px;
+    height: 60px;
+    padding-left: 100px;
+    font-size: 26px;
+}
+
+.imgCare {
+    float: left;
+    margin-top: 100px;
+}
+
+.form {
+    margin-top: 100px;
+}
+
+.formSize {
+    background: url(img/форма.png);
+    margin: auto;
+    width: 1500px;
+    height: 568px;
+    color: white;
+}
+
+.formText {
+    margin-top: 113px;
+    float: left;
+    color: white;
+}
+
+.h1Form {
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 130px;
+}
+
+.pForm {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 130px;
+    width: 370px;
+}
+
+input::-webkit-input-placeholder {
+    color: white;
+}
+
+.formInput {
+    float: right;
+    margin-top: 140px;
+    margin-right: 100px;
+}
+
+.name {
+    background: none;
+    border: 5px solid white;
+    padding: 10px 80px;
+}
+
+.nameFename {
+    float: inline-start;
+}
+
+.emailStiel {
+    background: none;
+    border: 5px solid white;
+    padding: 10px 250px;
+}
+
+.masegStiel {
+    background: none;
+    border: 5px solid white;
+    padding: 60px 250px;
+}
+
+.inputBaton {
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.pFormm {
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+}
+
+.inbutBatonSend {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    background: #f6ae48;
+    font-size: 22px;
+    border-radius: 15px;
+    float: right;
+}
+
+.foo{
+    margin: auto;
+    width: 1500px;
+}
