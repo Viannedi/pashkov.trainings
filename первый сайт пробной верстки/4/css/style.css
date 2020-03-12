@@ -1,0 +1,134 @@
+* {
+    font-family: 'Rajdhani', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.heater {
+    margin: 0 auto;
+    width: 1000px;
+    height: 550px;
+    overflow: hidden;
+}
+
+.heat_heater {
+    width: 1000px;
+    height: 40px;
+    float: left;
+    margin-top: 10px;
+}
+
+.logo {
+    float: left;
+    height: 40px;
+    width: 125px;
+    text-align: center;
+}
+
+.textHref {
+    height: 40px;
+    width: 750px;
+    text-align: center;
+    float: left;
+}
+
+.text {
+    padding-left: 30px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+}
+
+.text:hover {
+    padding-left: 30px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #097e89;
+}
+
+.sosheal {
+    float: right;
+    height: 40px;
+    width: 125px;
+}
+
+.slider {
+    width: 1000px;
+    max-height: 500px;
+}
+
+.arrow__left {
+    float: left;
+    width: 10%;
+    height: 500px;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.slider__content {
+    float: left;
+    width: 80%;
+    height: 500px;
+    text-align: center;
+    padding-top: 185px;
+}
+.big {
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+  }
+  .smol__title{
+      width: 370px;
+      text-align: center;
+      margin: 0 auto;
+  }
+  .smol{
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+  }
+  .boton__slider{
+      margin: 0 auto;
+      padding-top: 50px;
+  }
+  .boton__slider__style{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    border: 2px solid #fff;
+    padding: 5px 22px;
+  }
+
+.arrow_right {
+    float: left;
+    width: 10%;
+    height: 500px;
+    text-align: center;
+    padding-top: 200px;
+}
+.about__us{
+    background-color: #fff;
+    margin: 0 auto;
+    width: 1000px;
+    height: 420px;
+}
+.photo{
+    height: 420px;
+    width: 50%;
+    float: left;
+}
+.text__abour__us{
+    height: 420px;
+    width: 50%;
+    float: left;
+}
+.h1_us{
+    text-align: start;
+    padding: 20px 30px;
+}
+  
